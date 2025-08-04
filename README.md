@@ -1,7 +1,7 @@
 ## Python Environment Setup with pyenv
 
 ## Notes:
-- only the buildSummaryFile.py is working
+- only the buildSummaryFile.py and drawRoute.py are working
 - Put fit files from strava into the fitData directory - NOTE: Stored in my Dropbox
 
 1. **Set the local Python version for this project:**
